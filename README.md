@@ -109,6 +109,19 @@ I also participated in an activity to support senior citizens by helping provide
 <img src="https://github.com/sure-trust/HANNE-JENIFER-R-g2-data-analytics/blob/31ef51aefbc2594c6b29b1edd30e596f10659919/Course%20report/Community%20Service%20-%20Tree%20Plantation.jpeg" alt="Community Service Photo 2" width="30%">
 ---
 
+
+## **Certificate**
+
+The internship certificate serves as an official acknowledgment of the successful completion of my training period. It will be issued by the organization upon fulfilling all required tasks and meeting the performance expectations of the program. The certificate validates the skills, experience, and contributions made during the internship.
+
+<!-- add your certificate image url below (inside src='')-->
+
+<p align="center">
+<img src="https://github.com/Lord-Rahul/Practice-Programs/blob/main/react/1/public/Gemini_Generated_Image_a6w8rda6w8rda6w8.png?raw=true" alt="Internship Certificate" width="80%">
+</p>
+
+---
+
 ## **Acknowledgments**
 
 <!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
