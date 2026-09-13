@@ -69,7 +69,7 @@ During this course, I gained a strong foundation in Data Analytics and learned h
   This project is a final capstone project in aviation data analytics that analyzes flight operations to understand delays, cancellations, diversions, and their underlying causes.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/HANNE-JENIFER-R-g2-data-analytics/tree/main/Final%20capstone%20project" target="_blank"><strong>→ View Full Project </strong></a>
+  <a href="https://github.com/sure-trust/HANNE-JENIFER-R-g2-data-analytics/blob/03178bdf370353286e4c3f3685cb023df83c49ca/Course%20report/SURE%20Trust%20Project%20Document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
